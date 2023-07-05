@@ -1,4 +1,8 @@
 /* styles.css */
+
+* {
+    font-family:'Times New Roman', Times, serif
+}
 h1 {
     color:black;
     background-color: antiquewhite;
