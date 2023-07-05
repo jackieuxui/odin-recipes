@@ -3,12 +3,28 @@
 * {
     font-family:'Times New Roman', Times, serif
 }
+
+/* Main Recipe Page */
+
+div.titlepage {
+    padding: 8px;
+    margin-bottom: 24px;
+    background-color: antiquewhite;
+    
+}
 h1 {
     color:black;
-    background-color: antiquewhite;
+    
 }
 
 ul {
     color:darkblue;
     background-color: whitesmoke;
+}
+
+img {
+    height: 400px;
+    width: auto;
+    margin: 0 auto;
+    display: block;
 }
